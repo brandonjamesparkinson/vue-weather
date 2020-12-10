@@ -1,24 +1,9 @@
-# vue-weather
+# Vue Weather App
+A weather app built using Vue.js which connects to a weather API (https://openweathermap.org/api)
 
-## Project setup
-```
-npm install
-```
+### Cold Weather Example
+![](git_images/cold-weather-example.PNG)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Warm Weather Example
+![](git_images/warm-weather-example.PNG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
